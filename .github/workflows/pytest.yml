@@ -26,6 +26,6 @@ jobs:
 
           git clone https://github.com/satyammaurya-cloud/python_flask-project.git
 
-          cd docker_python_flask-project
+          cd python_flask-project
 
           python3 app.py
